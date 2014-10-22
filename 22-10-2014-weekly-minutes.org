@@ -1,0 +1,20 @@
+#+Title:  weekly minutes 
+#+Date:   [2014-10-22 Wednesday]
+
+* Agenda of Meeting
+** Discuss the progress on the tasks
+| Tasks                        | Progress                           | Owner                        |
+|------------------------------+------------------------------------+------------------------------|
+| Reaching RA's of Labs        | <apruv please update here>         | Apurv, Soujanya, prabhsimran |
+|------------------------------+------------------------------------+------------------------------|
+| AWStats                      | Done                               | Soujanya                     |
+|------------------------------+------------------------------------+------------------------------|
+| Migration of labs            | yet to be done                     | Soujanya,Kamal               |
+|------------------------------+------------------------------------+------------------------------|
+| Labs tested on local machine | <apurv please update>              | Apurv                        |
+|------------------------------+------------------------------------+------------------------------|
+| Meeting with Prof Suresh     | <Prabhsimran and Kaveri to update> | Prabhsimram, Kaveri          |
+|------------------------------+------------------------------------+------------------------------|
+|                              |                                    |                              |
+
+

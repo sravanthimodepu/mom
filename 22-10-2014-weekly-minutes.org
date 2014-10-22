@@ -6,7 +6,7 @@
 
 | Tasks                        | Progress                                                                                                                      | Owner                        |
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
-| Reaching RA's of Labs        | <apruv please update here>                                                                                                    | Apurv, Soujanya, Prabhsimran |
+| Reaching RA's of Labs        | Tried to contact the concerning RA for EMT lab. He has already left.                                                                                                     | Apurv, Soujanya, Prabhsimran |
 |                              | Problem Solving Lab(Prof Jawahar): <Prabhsimran to update>                                                                    |                              |
 |                              | Data Structures Lab(Prof Kishore Kotapalli): Prof Kishore has given an appointment today at 3:00pm to meet him at his office  |                              |
 |                              |                                                                                                                               |                              |

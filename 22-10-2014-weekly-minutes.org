@@ -2,7 +2,7 @@
 #+Date:   [2014-10-22 Wednesday]
 
 * Agenda of Meeting
-** Discuss the progress on the tasks
+** Discuss the progress on tasks
 
 | Tasks                        | Progress                                                                                                                      | Owner                        |
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
@@ -22,5 +22,16 @@
 | Meeting with Prof Suresh     | <Prabhsimran and Kaveri to update>                                                                                            | Prabhsimram, Kaveri          |
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
 |                              |                                                                                                                               |                              |
+
+** Action Items
+
+*** Schedule for a session with Ishan on Security(After diwali vacation)
+*** Mailing Chopella sir regarding linux Lab -> Apurv
+*** Moving the Labs update column on to the IIITH-Labs-List sheet -> Apurv
+*** Meeting with Kishore sir at 3:00pm today -> Apurv
+*** Apply Performance and Security for first set of labs -> Apurv, Soujanya
+*** Moving to next set of labs for collecting the needed information -> Soujanya, Apurv
+*** Follow up with RA's for sources -> Soujanya, Apurv, Prahbsimran 
+
 
 

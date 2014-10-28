@@ -48,8 +48,14 @@
 - Database lab- Tested on local machine and worked fine.
 - Computer Programming- last two experiments are pending. Apurv to
   update.
-- Computer Organization- Prabhsimran and Kaveri
+- Computer Organization- Prabhsimran and Kaveri to meet Suresh Purini sir to discuss further.
 - Digital Logic Design- Tested and works fine on local machine.
 - Computer Programming- Reach the lab RA's to help us working with flash
 
 *** Follow up with Kaveri to update the weekly mom on github also to update the timesheets on bitbucket
+
+All the web pages and the links are opening on the local machine and via the browser also except for:
+- Experiment 6's quizzes has a link for the pdf but it is giving "page not found". The searching for the pdf in http://localhost/build/exp5/RandomVariables.pdf but the experiment no. is 6 (not 5) and the pdf is absent from both the files.
+- Images are broken on exp 7's quizzes page. There is no images folder in exp7 folder.
+- None of the .jnlp files can be opened so far. However, the jar files being referenced in the jnlp files can be opened manually via the command line. All of the jar files are working except exp6.jar . All the .jar files from the  ./lib folder have to be copied to ./ and then exp6.jar has to be run.(Here ./ is cse20-test/src/lab/experiment).
+- All the jar files require openjdk-7-jre.

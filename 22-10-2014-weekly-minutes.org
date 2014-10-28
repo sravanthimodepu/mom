@@ -20,7 +20,7 @@
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
 | Labs tested on local machine |Done. Updated the status at: https://docs.google.com/a/vlabs.ac.in/spreadsheets/d/1qTCcB0ycl_KQWvc-uyOtPTrBeZa9OkVuTFMf_bCP8aY/edit#gid=0  | Apurv                        |
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
-| Meeting with Prof Suresh     | <Prabhsimran and Kaveri to update>                                                                                            | Prabhsimram, Kaveri          |
+| Meeting with Prof Suresh     | We have sent sir the list of the syllabi and now, we are waiting for the email's reply that we have sent for the next meeting  |Prabhsimram, Kaveri          |
 |------------------------------+-------------------------------------------------------------------------------------------------------------------------------+------------------------------|
 |                              |                                                                                                                               |                              |
 

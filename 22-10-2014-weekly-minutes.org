@@ -26,12 +26,29 @@
 ** Action Items
 
 *** Schedule for a session with Ishan on Security(After diwali vacation)
+- Mail ishan asking him to checkin the doc at github
 *** Mailing Chopella sir regarding linux Lab -> Apurv
+- No reply
 *** Moving the Labs update column on to the IIITH-Labs-List sheet -> Apurv
+- Done
 *** Meeting with Kishore sir at 3:00pm today -> Apurv
+- Apurv met the professor. Out of 10 exp the professor has flas's of only 4 experiments. And the RA's worked on this lab left.
 *** Apply Performance and Security for first set of labs -> Apurv, Soujanya
+- List down all the parameters needed for the labs and differentiate
+- Nedd access to the deploy server(contact systems team)
 *** Moving to next set of labs for collecting the needed information -> Soujanya, Apurv
+- 
 *** Follow up with RA's for sources -> Soujanya, Apurv, Prahbsimran 
+- Problem Solving- There was some problem with the simulation. And the
+  RA's responsible was unable to resolve the issue. So either we need
+  to resolve or ask the RA to fix it. Prabhsimran to update the RA's
+  name.
+- Linux lab- Apurv to check with Chopella sir.
+- Database lab- Tested on local machine and worked fine.
+- Computer Programming- last two experiments are pending. Apurv to
+  update.
+- Computer Organization- Prabhsimran and Kaveri
+- Digital Logic Design- Tested and works fine on local machine.
+- Computer Programming- Reach the lab RA's to help us working with flash
 
-
-
+*** Follow up with Kaveri to update the weekly mom on github also to update the timesheets on bitbucket

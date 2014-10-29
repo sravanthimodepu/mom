@@ -8,6 +8,7 @@
 ** Review of last meeting's action items
 ** Come up with the requirements for integration process in terms of tools/skills
 - Apurv
+** Use Dynamic Analysis Tools to evaluate experiments
 ** Explore and follow up open source forums to resolve the issues with labs
 - Kaveri
 - Soujanya

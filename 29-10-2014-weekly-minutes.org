@@ -1,0 +1,37 @@
+#+Title:  Weekly meeting
+#+Author: Soujanya
+#+Date:   <2014-10-29 Wed>
+
+* Attendees
+ - Prof. Raghu Reddy, Geeta, Soujanya, Apurv, Prabhsimran, Kaveri
+* Agenda
+** Review of last meeting's action items
+** Come up with the requirements for integration process in terms of tools/skills
+- Apurv
+** Explore and follow up open source forums to resolve the issues with labs
+- Kaveri
+- Soujanya
+- Apurv
+- Prabhsimran  
+** Prepare a sheet to list out the bugs that we come across while testing, also update its status
+- Kaveri
+- Soujanya
+- Apurv
+- Prabhsimran
+** Buy a router for conference room    
+- Geeta
+* Action Items
+** Urgent
+- Get the labs to github
+- Get the labs ready to host on cloud
+- Printed chart sheet for Integration process
+** Not urgent
+- Enable labs with services (Security and Performance for now)
+* Break down of tasks
+<Team please update your tasks here in the table>
+| Task                       | Process                                                                                                          | Owners   |
+|----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
+| Solving the issues of labs | Electro Magnetic Lab: Need to discuss with the lab developer about how to restore the database file for this lab | Soujanya |
+|----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
+|                            |                                                                                                                  |          |
+

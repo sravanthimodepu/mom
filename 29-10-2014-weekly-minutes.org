@@ -34,5 +34,8 @@
 |----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
 | Solving the issues of labs | Electro Magnetic Lab: Need to discuss with the lab developer(Prof Azeemuddin Syed) about how to restore the database file for this lab | Soujanya |
 |----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
-|                            |                                                                                                                  |          |
+| Solving the issues of labs | Linux Lab: Remove the Signup option from the experiments using Dynamic Analysis Tool and check if everything still works fine or not.  |Prabhsimran |
+|----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
+| New Experiments in Lab     | Computer System Organisation: Talk to Suresh Purini Sir regarding the new experiments that need to be designed for the lab. | Prabhsimran and Kaveri|
+|----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
 

@@ -31,7 +31,7 @@
 <Team please update your tasks here in the table>
 | Task                       | Process                                                                                                          | Owners   |
 |----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
-| Solving the issues of labs | Electro Magnetic Lab: Need to discuss with the lab developer about how to restore the database file for this lab | Soujanya |
+| Solving the issues of labs | Electro Magnetic Lab: Need to discuss with the lab developer(Prof Azeemuddin Syed) about how to restore the database file for this lab | Soujanya |
 |----------------------------+------------------------------------------------------------------------------------------------------------------+----------|
 |                            |                                                                                                                  |          |
 

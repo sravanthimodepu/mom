@@ -35,5 +35,15 @@
 |------------------------------------------------------------------------------+----------+----------+----------------|
 | VLSI[CSE14]: Check out the sources of VLSI labs and test it on local machine |          | Soujanya | 5hrs           |
 |------------------------------------------------------------------------------+----------+----------+----------------|
-|                                                                              |          |          |                |
+| Digital Logic Design Lab (CSE 15) : Check if the experiments are working on  |          | Prabhsimran|  4-5hrs      |
+| Linux and Windows Machines.                                                  |          |            |              |
+|------------------------------------------------------------------------------+----------+------------+--------------|
+| Data Mining Lab (CSE 06) : Check if the experiments are working on           |          | Prabhsimran|  4-5hrs      |
+| Linux and Windows Machines.                                                  |          |            |              |
+|------------------------------------------------------------------------------+----------+------------+--------------|
+| Cryptography (CSE 29) : Check if the experiments are working on              |          | Prabhsimran|  4-5hrs      |
+| Linux and Windows Machines.                                                  |          |            |              |
+|------------------------------------------------------------------------------+----------+------------+--------------|
+| Computer System Organization Lab (CSE 11) : Meeting with Suresh Purini Sir   | On Friday| Prabhsimran|  2-3 hrs     |
+|------------------------------------------------------------------------------+----------+------------+--------------|
 

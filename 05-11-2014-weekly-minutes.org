@@ -46,4 +46,11 @@
 |------------------------------------------------------------------------------+----------+------------+--------------|
 | Computer System Organization Lab (CSE 11) : Meeting with Suresh Purini Sir   | On Friday| Prabhsimran|  2-3 hrs     |
 |------------------------------------------------------------------------------+----------+------------+--------------|
-
+| Problem Solving Lab (CSE 04) : Resolve the sandbox issues                    |          | Kaveri     |  5-6 hrs     |
+|------------------------------------------------------------------------------+----------+------------+--------------|
+| Pattern Recognition Lab (CSE 20) : Dropped a mail regarding the lab to the   |          | Kaveri     |  Action      |
+| lab in charge. Awating a reply.      					       |	  |            |  Pending     |
+|------------------------------------------------------------------------------+----------+------------+--------------|
+| Artificial Neural Networks (CSE 22) : Check if the experiments are working on|	  | Kaveri     |  4-5hrs      |
+| Linux and Winndows Machines.    	  				       |	  |            |  	      |
+|------------------------------------------------------------------------------+----------+------------+--------------|

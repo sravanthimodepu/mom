@@ -44,7 +44,7 @@
 | Cryptography (CSE 29) : Check if the experiments are working on              |          | Prabhsimran|  4-5hrs      |
 | Linux and Windows Machines.                                                  |          |            |              |
 |------------------------------------------------------------------------------+----------+------------+--------------|
-| Computer System Organization Lab (CSE 11) : Meeting with Suresh Purini Sir   | On Friday| Prabhsimran|  2-3 hrs     |
+| Computer System Organization Lab (CSE 11) : Meeting with Suresh Purini Sir   | On Monday| Prabhsimran|  2-3 hrs     |
 |------------------------------------------------------------------------------+----------+------------+--------------|
 | Problem Solving Lab (CSE 04) : Resolve the sandbox issues                    |          | Kaveri     |  5-6 hrs     |
 |------------------------------------------------------------------------------+----------+------------+--------------|

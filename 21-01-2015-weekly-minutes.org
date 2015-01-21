@@ -9,6 +9,7 @@
 - Contact Kaveri to check with the status of the tasks that she was assigned to.
 - Move next set of labs to Amazon i.e to have 15 labs hosted on cloud before 15th Feburary 2015.
 - Wednesday weekly meetings rescheduled to 12:00pm.
+- Contact Yogesh to schedule for the presentation of his work in this week.
 - Tasks alloted for the team
  + Fixing the sandbox issue with Problem Solving Lab & get Linux lab hosted on cloud - Apurv and Anurag 
  + Host Data Mining and Databases lab on a single container with ADS - Sai Krishna.

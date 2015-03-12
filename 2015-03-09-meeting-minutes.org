@@ -50,4 +50,7 @@ Need to find comaptible versions for other 4 labs : Soujanya
 - Soujanya
 *** Two machines needed for interns to work on
 *** Windows license for testing labs
- 
+** Deliverables by next week
+*** All 19 labs to be at level 5 and hosted   
+*** Resolve Java3D issue
+*** Reasoning for labs which could not run over ADS 

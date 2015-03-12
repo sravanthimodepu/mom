@@ -10,7 +10,7 @@
  As part of our Integration process, labs having client side
  dependencies will be provided with a link to download softwares as
  per requirement along with the installation/configuration
- process. Raise a ticket on github engineers-forum. Here are the labs that has CS Dependencies
+ process. Raise a ticket on github engineers-forum. Here are 13 labs that has CS Dependencies
  - Data structures
  - Computer programming
  - Digital logic design

@@ -10,7 +10,7 @@
 ** Test 20 prioritized labs of IIITH, and get the status of lab. In case if the labs fails to run, come up with more specific reasons : Sadhana, Sravanthi
 ** Decoupling of labs with UI Framework against the technology used to actually build a lab : Ushasree
    - Pick up a lab(Unstructured) and see the efforts needed to integrate it with UI template 1.0
-** Have a container created for client side dependencies, which serves as an ideal location for end users to download softwares : Apurv 
+** Have a container created for client side dependencies, which serves as an ideal location for end users to download softwares : Soujanya/Saikrishna 
 ** For automation of client side dependencies : Soujanya, saikrishna and Anvesh
    - Limit the usage of technologies
    - Minimize the users efforts while going through installation process 

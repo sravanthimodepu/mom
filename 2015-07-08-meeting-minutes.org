@@ -1,0 +1,19 @@
+#+Title:  Weekly meeting
+#+Author: Soujanya
+#+Date:   <2015-06-24 Wed>
+
+* Attendees
+ - Prof. Raghu, Apurv, Soujanya, Sravanthi, Nikhil, Saisambasiva and Anargh 
+* Agenda
+
+** List out all the IIITH labs that has client side dependencies, and check if the experiments[i.e simulations] have the actual source code or not. Also categorize the experiments in terms of user interactivity: Sravanthi & Sadhana   
+** Send out emails to the developers of IIITH labs asking them to share the actual sources[.fla's or .java files] of simulations: Soujanya
+** Explore on Java Decompiler: Soujanya 
+** Check with the Data Services team, about data service role from end users perspective and how efficient it is for the labs. Also get a conformation from the data service team for updating the lab details in terms of client and server side dependencies: Soujanya
+** Action Items for Nikhil and Sai:
+- Automate the installation process for Windows machine, to install the software packages both for basic and specific configuration.
+- Define and design the work flow of the automation scripts, right from the initial state of the users interaction over the labs.
+** Status of 5 labs
+- Contact Saurab to find a solution for bringing Databases and Data Mining labs to level 5: Apurv
+- Fixing the Gate 1 functionality of POPL and Linux lab, excluding security parameters by 10th of July 2015. Soon to comeup with a solution for a secure approach: Anargh
+- Leave out a mail to Avinash, asking him to meet Prof. Raghu: Apurv

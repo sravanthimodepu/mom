@@ -35,8 +35,8 @@ Action items for Soujanya
 - Define the xml schema for databasewhich runs on the backend
 
 ** Status on 5 labs form the first set of IIITH labs list:
-- Database and Datamining - Level 4
-- POPL and Linux 
-Issues Resolved - LDAP (Login), Gateone (Virtual Terminal)
-Issues Pending - NFS (User needs to be restricted from accessing the filesystem)
-- Problem Solving - Waiting for Avinash to return to the campus
+*** Database and Datamining - Level 4
+*** POPL and Linux 
+- Issues Resolved - LDAP (Login), Gateone (Virtual Terminal)
+- Issues Pending - NFS (User needs to be restricted from accessing the filesystem)
+*** Problem Solving - Waiting for Avinash to return to the campus

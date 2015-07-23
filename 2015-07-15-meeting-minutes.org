@@ -7,7 +7,7 @@
 * Agenda
 ** Tasks regarding IIITH Labs integration
 *** Action items for Sadhana & Sravanthi
-- Mention the test environment for the labs while performing manual testing and updat on to the test report
+- Mention the test environment for the labs while performing manual testing and update on to the test report
 - Identify the bugs in the experiments[simulations] and raise an issue on github on the respective lab repositories
 - List out the technology used by labs at experiment level 
 - List out the souces files that are available/unavailable and send mails to the respective lab developers asking for sources

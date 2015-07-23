@@ -30,8 +30,8 @@ Action items for Soujanya
 **** Complete the documentation and checkin the scripts[both for shell scripts and Javascript code] written for both Windows and Ubuntu/Centos
 
 ** Improve/Enhance Dataservices: Dataservice Team
-*** Collect the requirements to fetch the labs information from an experiment level[CS dependencies, technology, source files available etc..]
-*** Build api's/scripts for rendering the information on to vlab.co.in site
-*** Define the xml for database schema which runs on the backend
+- Collect the requirements to fetch the labs information from an experiment level[CS dependencies, technology, source files available etc..]
+- Build api's/scripts to render labs information on to vlab.co.in site
+- Define the xml schema for databasewhich runs on the backend
 
 ** Status on 5 labs form the first set of IIITH labs list: <Apurv to update> 

@@ -34,4 +34,9 @@ Action items for Soujanya
 - Build api's/scripts to render labs information on to vlab.co.in site
 - Define the xml schema for databasewhich runs on the backend
 
-** Status on 5 labs form the first set of IIITH labs list: <Apurv to update> 
+** Status on 5 labs form the first set of IIITH labs list:
+- Database and Datamining - Level 4
+- POPL and Linux 
+Issues Resolved - LDAP (Login), Gateone (Virtual Terminal)
+Issues Pending - NFS (User needs to be restricted from accessing the filesystem)
+- Problem Solving - Waiting for Avinash to return to the campus

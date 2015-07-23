@@ -1,6 +1,6 @@
 #+Title:  Weekly meeting
 #+Author: Soujanya
-#+Date:   <2015-06-24 Wed>
+#+Date:   <2015-07-08 Wed>
 
 * Attendees
  - Prof. Raghu, Apurv, Soujanya, Sravanthi, Nikhil, Saisambasiva and Anargh 

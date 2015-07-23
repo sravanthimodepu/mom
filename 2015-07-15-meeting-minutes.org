@@ -1,0 +1,37 @@
+#+Title:  Weekly meeting
+#+Author: Soujanya
+#+Date:   <2015-07-15 Wed>
+
+* Attendees
+ - Prof. Raghu, Prof. Venkatesh, Geeta, Thirumal, Apurv, Soujanya, Sravanthi, Sadhana, Nikhil, Saisambasiva and Anargh 
+* Agenda
+** Tasks regarding IIITH Labs integration
+*** Action items for Sadhana & Sravanthi
+- Mention the test environment for the labs while performing manual testing and updat on to the test report
+- Identify the bugs in the experiments[simulations] and raise an issue on github on the respective lab repositories
+- List out the technology used by labs at experiment level 
+- List out the souces files that are available/unavailable and send mails to the respective lab developers asking for sources
+
+** Java Decompiler
+Action items for Soujanya
+- Pickup one experiment from iiith labs which runs on java applets and run it over java decompiler
+- Analyse the generated output and refactor the code
+
+** Status on summer interns[sai & Nikhil]
+*** Improvements and tasks that are pending:
+**** Work flow of the html page designed to verify and install dependencies:
+- Inform the user about the system requiremnts that the clients need to have on their machine as a system environmnet before they start off with experiments
+- If they have the environment ready ask them to verify by providing a test links for needed dependencies
+- If not redirect the users where they can follow the instructions for downloading the scripts and requirements.txt file
+- Once the installation is done ask the users to again confirm/validate with the setup environment 
+- Move all the packages from your local machine to the container created on IIITH server for hosting all the client side dependencies[for windows, ubuntu, centos machines and for both 32 & 64 bit architecture]
+- Work on the improvements suggested by Apurv, regarding the bash scripts for auto-installation of packages on windows environment to this mail thread
+
+**** Complete the documentation and checkin the scripts[both for shell scripts and Javascript code] written for both Windows and Ubuntu/Centos
+
+** Improve/Enhance Dataservices: Dataservice Team
+*** Collect the requirements to fetch the labs information from an experiment level[CS dependencies, technology, source files available etc..]
+*** Build api's/scripts for rendering the information on to vlab.co.in site
+*** Define the xml for database schema which runs on the backend
+
+** Status on 5 labs form the first set of IIITH labs list: <Apurv to update> 

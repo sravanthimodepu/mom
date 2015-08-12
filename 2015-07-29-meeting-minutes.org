@@ -6,9 +6,12 @@
 
 * Action Items
 - Mail interns[Sai & Nikhil], asking them to complete the pending work: Soujanya
-- Level 4 labs to be fixed with a week time: Apurv
+- Status of Level 4 labs:
+  Problem Solving - done but the sources need to be updated
+  Linux/POPL - almost dome with a minor  security feature to implement
+  Database/Datamining - no progress
 - Meet Prof. Pradeep and get the source code of 5 labs. Target is to firstly get the sources of the prioritised labs: Sadhana & sravanthi
-- Construct make file for the first 20 labs: Sadhana & Sravanthi 
+- Write make file for the 2 labs which have the need of source code compilation: Sadhana & Sravanthi 
 - Update the status on Dataservice dashboard: Soujanya
 - Research work on Java Decompiler, to work the binaries of an experiment and analyze the flow and model: Soujanya 
     

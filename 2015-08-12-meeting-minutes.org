@@ -12,6 +12,8 @@
   Sravanthi
 - Demo on how the labs have been moved from L0 to L4: Sadhna and
   Sravanthi
+- Resume integration process for remaining 5 labs from first set of
+  labs.
 - For ADS, find out the VLEAD contact and schedule meetings to move
   labs to L5: Apurv
 - Assign Avinash some work related to integration

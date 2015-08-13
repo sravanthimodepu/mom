@@ -1,0 +1,24 @@
+#+Author: Apurv
+#+Date:   <2015-08-12 Thu>
+
+* Attendees
+ - Prof. Raghu, Geeta, Apurv, Soujanya Sravanthi, Sadhana, Thirumal
+
+
+* Action Items
+
+- Collect the source codes for first set of 20 labs from the
+  respective lab developers and write makefiles for them: Sadhana &
+  Sravanthi
+- Demo on how the labs have been moved from L0 to L4: Sadhna and
+  Sravanthi
+- For ADS, find out the VLEAD contact and schedule meetings to move
+  labs to L5: Apurv
+- Assign Avinash some work related to integration
+- An alternative project to be defined in place of Systems Model for
+  SSAD. (Sai to define a project for re-narration. To be allocated as
+  an SSAD project.)
+
+* Decisions taken
+- Separate set of tasks should be assigned individually
+    

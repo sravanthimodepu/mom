@@ -4,7 +4,7 @@
 * Attendees
  - Prof. Raghu, Geeta, Apurv, Soujanya Sravanthi, Sadhana, Thirumal
 
-
+   
 * Action Items
 
 - Collect the source codes for first set of 20 labs from the
@@ -16,7 +16,7 @@
   labs: Apurv
 - For ADS, find out the VLEAD contact and schedule meetings to move
   labs to L5: Apurv
-- Assign Avinash some work related to integration
+- Assign Avinash some work related to integration: Apurv
 - An alternative project to be defined in place of Systems Model for
   SSAD. (Sai to define a project for re-narration. To be allocated as
   an SSAD project.)

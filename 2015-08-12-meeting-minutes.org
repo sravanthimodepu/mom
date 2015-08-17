@@ -9,7 +9,7 @@
 
 - Collect the source codes for first set of 20 labs from the
   respective lab developers and write makefiles for them: Sadhana &
-  Sravanthi
+  Sravanthi, Soujanya
 - Demo on how the labs have been moved from L0 to L4: Sadhna and
   Sravanthi
 - Resume integration process for remaining 5 labs from first set of
@@ -20,6 +20,8 @@
 - An alternative project to be defined in place of Systems Model for
   SSAD. (Sai to define a project for re-narration. To be allocated as
   an SSAD project.)
+- Vlabs Dashboard:
+  Have the data model defined by 18th of this month.
 
 * Decisions taken
 - Separate set of tasks should be assigned individually

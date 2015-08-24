@@ -12,7 +12,7 @@
   + 10 labs with complete source [To check in the shared sources to respective repositories on github]
   + 6 labs with partial sources[gave deadlines to engineers/RA to share sources]
   + 4 labs with no response from developers[sent reminder twice already]
-- Maintain a well defined sheet based on the details of sources availability, along with color code to make it more understandable : Sadhana & Sravanthi      
+- Maintain a well defined sheet based on availability of source files, along with color code to make it more understandable : Sadhana & Sravanthi      
 - Fixing the 5 labs with ansible scripts to auto deploy on ADS: Apurv
 - To test the scripts and validate the client side automations scripts and documentation: Soujanya
 - Deadline for the above mentioned tasks: 25th August 2015 

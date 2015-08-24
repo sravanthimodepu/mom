@@ -7,11 +7,11 @@
 * Action Items
 - Check for the best Java Decompler available in the market: Soujanya & Avinash
 - Describe level of integration for 20 labs with source files: Sadhana & Sravanthi  
-- Filter out 5 labs from the phase 2 labs lsit, which are at Level 5[incuding the actual source files], along with its usage reports. So that we could replace/push those labs to phase 1.     
+- Filter out 5 labs from the phase 2 labs list, which are at Level 5[incuding the actual source files], along with its usage reports. So that we could replace/push those labs to phase 1.     
 - Status of Phase 1 labs: Sravanthi & Sadhana 
   + 10 labs with complete source [To check in the shared sources to respective repositories on github]
   + 6 labs with partial sources[gave deadlines to engineers/RA to share sources]
-  + 4 labs with no response from developers[sent remainder twice already]
+  + 4 labs with no response from developers[sent reminder twice already]
 - Maintain a well defined sheet based on the details of sources availability, along with color code to make it more understandable : Sadhana & Sravanthi      
 - Fixing the 5 labs with ansible scripts to auto deploy on ADS: Apurv
 - To test the scripts and validate the client side automations scripts and documentation: Soujanya

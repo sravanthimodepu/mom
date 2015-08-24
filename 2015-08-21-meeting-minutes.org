@@ -15,4 +15,5 @@
 - Maintain a well defined sheet based on availability of source files, along with color code to make it more understandable : Sadhana & Sravanthi      
 - Fixing the 5 labs with ansible scripts to auto deploy on ADS: Apurv
 - To test the scripts and validate the client side automations scripts and documentation: Soujanya
-- Deadline for the above mentioned tasks: 25th August 2015 
+- Deadline for the above mentioned tasks: 25th August 2015
+- Khushpreet to take up the responsibilities of Itegration Team

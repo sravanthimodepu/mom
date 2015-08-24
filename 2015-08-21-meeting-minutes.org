@@ -17,3 +17,4 @@
 - To test the scripts and validate the client side automations scripts and documentation: Soujanya
 - Deadline for the above mentioned tasks: 25th August 2015
 - Khushpreet to take up the responsibilities of Integration Team
+- Need more people in Integration Team: Geeta

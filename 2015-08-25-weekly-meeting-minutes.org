@@ -25,7 +25,7 @@
   1. Need to cross check source code of all the labs on developer
      portal.
 
-  2 Push all the recovered source code back to github repositories.   
+  2. Push all the recovered source code back to github repositories.   
 
   3. No email should go out asking about source code, without checking
      at developer portal.

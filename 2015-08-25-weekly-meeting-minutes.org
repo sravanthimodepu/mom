@@ -17,7 +17,9 @@
   4. Prioritization of lab on basis of following priorities.
 
      1st- Usage
+     
      2nd- Source code availability
+     
      3rd- Integration Level 6
 
 * Decisions

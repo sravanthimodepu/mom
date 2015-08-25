@@ -1,0 +1,79 @@
+#+Author: Khushpreet
+#+Date:   <2015-08-25 Tuesday>
+
+* Attendies
+  Prof. Raghu, Prof. Venkatesh, Sadhana, Sravanthi, Apurv, Khushpreet and Geeta
+
+* Discussions 
+
+  1. Discussed about getting the source code of all the labs without
+     asking to professors from developer portal. 
+
+  2. Saurabh explained the process of recovering the sources of labs,
+     listed on developer portal.
+  
+  3. Communication Process to get lab sources from professors.
+
+  4. Prioritization of lab on basis of following priorities.
+
+     1st- Usage
+     2nd- Source code availability
+     3rd- Integration Level 6
+
+* Decisions
+
+  1. Need to cross check source code of all the labs on developer
+     portal.
+
+  2 Push all the recovered source code back to github repositories.   
+
+  3. No email should go out asking about source code, without checking
+     at developer portal.
+
+  4. No mails should go out without getting it reviewed by Prof. Raghu
+     or Prof. Venkatesh.
+
+  5. Analytics must be given the first priority, So arrange list of
+     labs in descending order based on usage.
+
+* Action Items:
+  
+|--------+---------------------------------------------+-----------------+--------------|
+| Sr no. | Taks                                        | Person assigned | Deadline     |
+|--------+---------------------------------------------+-----------------+--------------|
+|      1 | Cross check each and every lab’s            | Khushpreet      |              |
+|        | source code                                 | Soujanya        | [2015-08-28] |
+|        |                                             | Sadhana         |              |
+|        |                                             | Sravanthi       |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      2 | Push all the recover sources back           | Khushpreet      |              |
+|        | to github repositories carefully            | Sadhana         | [2015-08-28] |
+|        |                                             | Sravanthi       |              |
+|        |                                             |                 |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      3 | Prepare list of labs with latest            | Khushpreet      |              |
+|        | detail of source code availability          | Sadhana         | [2015-08-28] |
+|        | and year wise analytics of each lab         | Sravanthi       |              |
+|        |                                             |                 |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      4 | Analytics must be given the first priority, | Khushpreet      |              |
+|        | so list out the labs in descending order    | Sadhana         | [2015-08-28] |
+|        | based on usage.(for 20 labs)                | Sravanthi       |              |
+|        |                                             |                 |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      5 | Move POPL lab to phase 2                    |                 | [2015-08-28] |
+|--------+---------------------------------------------+-----------------+--------------|
+|      6 | Update status regarding summer interns work | Soujanya        | [2015-08-28] |
+|--------+---------------------------------------------+-----------------+--------------|
+|      7 | Document all the issues for the 5 labs      |                 |              |
+|        | (phase 1 labs) in detail also the problems  | Apurv           | [2015-08-28] |
+|        | faced while resolving the issues            |                 |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      8 | To test the scripts and validate the client | Soujanya        | [2015-08-28] |
+|        | side automations scripts and documentation  |                 |              |
+|--------+---------------------------------------------+-----------------+--------------|
+|      9 | Check for the best Java Decompler available | Soujanya        |              |
+|        | in the market                               | Avinash         |              |
+|--------+---------------------------------------------+-----------------+--------------|
+
+

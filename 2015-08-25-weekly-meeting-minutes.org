@@ -1,7 +1,7 @@
 #+Author: Khushpreet
 #+Date:   <2015-08-25 Tuesday>
 
-* Attendies
+* Attendees
   Prof. Raghu, Prof. Venkatesh, Sadhana, Sravanthi, Apurv, Khushpreet and Geeta
 
 * Discussions 
@@ -17,7 +17,9 @@
   4. Prioritization of lab on basis of following priorities.
 
      1st- Usage
+     
      2nd- Source code availability
+     
      3rd- Integration Level 6
 
 * Decisions
@@ -25,7 +27,7 @@
   1. Need to cross check source code of all the labs on developer
      portal.
 
-  2 Push all the recovered source code back to github repositories.   
+  2. Push all the recovered source code back to github repositories.   
 
   3. No email should go out asking about source code, without checking
      at developer portal.
@@ -77,3 +79,40 @@
 |--------+---------------------------------------------+-----------------+--------------|
 
 
+
+* Major issues with labs in Phase-I
+
+** Databases and Datamining
+
+*** Description
+- These labs need sage to be installed on the same container from
+  which they are hosted.
+- Auto installation of sahe needs to run two specific shell scripts.
+- One of these shell scripts create the environment to run sage.
+- Once the enviroment is created, the other script start the sage
+  sevice.
+
+*** Issues
+- These two shell scripts use screen command 
+- This screen command kind of hacks the terminal for itself and
+  doesn't allow other scripts/commands to run.
+- We need to figure out a way to run these scripts without
+  holding/freezing the terminal.
+
+** Linux and POPL
+
+*** Description
+- These labs need three other services i.e. ldap client/server, nfs
+  client/server and gateone.
+- User needs to login in order to access  the experiments.
+- As soon as the user registers or logs in a home directory is created to save his/her work.
+- The terminal is emulated by gateone. 
+
+*** Issues
+- The server configured with LDAP server got lost during migration.
+- The server configured with NFS server also got lost during migration.
+- Most of the servers are reconfigured but we still have to find a
+  solution to deploy labs that use multiple containers.
+- From lab's perspective, one minor feature is left to implement.
+- The user is still able to access the whole file system. We need to
+  restrict the user by doing so.

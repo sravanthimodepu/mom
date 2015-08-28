@@ -1,0 +1,87 @@
+#+Title:  Status Update Meeting
+#+Author: Khushpreet
+#+Date:   <20145-08-28 Friday>
+
+* Attendees
+
+Total person: 7 
+
+Prof. Raghu, Sravanthi, Apurv, Khushpreet, Soujanya, Priya and Geeta
+
+* Last week's Summary 
+** Status of first set of labs
+    
+    *Total number of labs*: 20
+
+    *Sources Available for*: 13
+
+    *Partially Available for*: 6
+
+    *Not Available for*: 1 (Physical Sciences) [Decided to replace
+                         this lab based on highest usage]
+
+** Status of second set of labs
+
+   *Total number of labs*: 16
+
+   *Sources Available for*: 5
+
+   *Partially Available for*: 5
+
+   *Not Available for*: 6
+
+* Discussion
+  
+  Discussion on finding out the source code.  Discussed with Soujanya
+  to find out a good decompiler. Also, to decompile at least 20
+  experiments (from .class to .java). Discussion with Apurv on lab's
+  issues. 
+
+  Main goal is reach at the count of at least 17 [Sources Available]
+  for first set of labs.
+
+  Find out the replacement based on highest usage.
+
+* Action Items 
+
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+| Sr. No | Tasks                                         | Depends on      | Assigned to | Deadline     | Status |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      1 | Get experiment wise usage for                 | Analytics team  | Khushpreet  | [2015-09-01] |        |
+|        | all the labs                                  |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      2 | Replacement for two labs based on the highest | 1st task        | Khushpreet  | [2015-09-01] |        |
+|        | usage                                         |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      2 | Resolve the issues of labs                    |                 | Apurv       | [2015-09-02] |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      3 | Finalize a good Java decompiler based on      |                 | Soujanya    | [2015-09-01] |        |
+|        | features, price and community support etc     |                 | Avinash     |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      4 | Decompilation of .class files of two labs     | 3rd task        | Soujanya    | [2015-09-01] |        |
+|        | and two experiments of two different labs     |                 | Avinash     |              |        |
+|        | 1) Pattern Recognition Labs (*8 Experiments*) |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 2) Basic Engineering Mechanics and Strength   |                 |             |              |        |
+|        | of materials (*1 experiment*)                 |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 3) EM Theory (*10 Experiments*)               |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 4) Computer Organization (*1 Experiments*)    |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      5 | Update the Makefile with respect              | 4th task        | Sadhana     | [2015-09-01] |        |
+|        | to decompiled .java code                      |                 | Sravanthi   |              |        |
+|        |                                               |                 | Shriyansh   |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      6 | Cross check the sheet and correct             |                 | Khushpreet  | [2015-09-01] |        |
+|        | the numbers                                   |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      7 | To test new source code of Computer Graphics  |                 | Khushpreet  | [2015-09-01] |        |
+|        | Lab                                           |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+
+
+Please go ahead and update the document if I missed any point.
+
+*Note*: Please update status column at the end of day.
+

@@ -1,0 +1,77 @@
+#+Title:  Status Update Meeting
+#+Author: SRAVANTHI
+#+Date:   <2015-09-01 Tuesday>-01 Tuesday>
+
+* Attendees
+
+Total person: 7 
+
+Prof. Raghu, Geeta, Soujanya, Apurv, Sadhana, Sravanthi, Shriyansh
+
+* Last week's Summary 
+** Status of first set of labs
+    
+    *Total number of labs*: 20
+
+    *Sources Available for*: 13
+
+    *Partially Available for*: 3
+
+    *Not Available for*: 4 (Pattern Recognition, Physical Chemistry, Physical Sciences, ElectroMagnetic Spectroscopy) 
+
+** Status of second set of labs
+
+   *Total number of labs*: 16
+
+   *Sources Available for*: 7
+
+   *Partially Available for*: 3
+
+   *Not Available for*: 6
+
+* Discussion
+  
+  Discussion on finding out the source code.  Discussed with Soujanya
+  to find out a good decompiler. Also, to decompile at least 20
+  experiments (from .class to .java). Discussion with Apurv on lab's
+  issues. 
+
+  Main goal is reach at the count of at least 17 [Sources Available]
+  for first set of labs.
+
+* Action Items 
+
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+| Sr. No | Tasks                                         | Depends on      | Assigned to | Deadline     | Status |                    
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      1 | Check Basic structural Analysis and Soil      | 1st task        | Sadhana     | [2015-09-04] |        |
+|        | Soil Mechanics from the 2nd set of labs to    |                 | Sravanthi   |              |        |
+|        | replace with the first set of labs            |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      2 | Update the Makefile with respect              | 2nd task        | Sadhana     | [2015-09-01] |        |
+|        | to decompiled .java code and move the 13labs  |                 | Sravanthi   |              |        |
+|        | from level1 to level6 from 1st set of labs    |                 | Shriyansh   |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      3 | Resolve the issues of the labs                | 3rd task        | Apurv       |              |        |         
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      4 | Finalize a good Java decompiler based on      | 4th task        | Soujanya    | [2015-09-01] |        |
+|        | features, price and community support etc     |                 | Avinash     |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+|      5 | Decompilation of .class files of two labs     | 5th task        | Soujanya    | [2015-09-01] |        |
+|        | and two experiments of two different labs     |                 | Avinash     |              |        |
+|        | 1) Pattern Recognition Labs (*8 Experiments*) |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 2) Basic Engineering Mechanics and Strength   |                 |             |              |        |
+|        | of materials (*1 experiment*)                 |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 3) EM Theory (*10 Experiments*)               |                 |             |              |        |
+|        |                                               |                 |             |              |        |
+|        | 4) Computer Organization (*1 Experiments*)    |                 |             |              |        |
+|--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
+
+
+
+
+Please go ahead and update the document if I missed any point.
+
+*Note*: Please update status column at the end of day.

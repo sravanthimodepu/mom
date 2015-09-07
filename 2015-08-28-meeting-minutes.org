@@ -53,12 +53,12 @@ Prof. Raghu, Sravanthi, Apurv, Khushpreet, Soujanya, Priya and Geeta
 |      2 | Replacement for two labs based on the highest | 1st task        | Khushpreet  | [2015-09-01] |        |
 |        | usage                                         |                 |             |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      2 | Resolve the issues of labs                    |                 | Apurv       | [2015-09-02] |        |
+|      3 | Resolve the issues of labs                    |                 | Apurv       | [2015-09-02] |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      3 | Finalize a good Java decompiler based on      |                 | Soujanya    | [2015-09-01] |        |
+|      4 | Finalize a good Java decompiler based on      |                 | Soujanya    | [2015-09-01] |        |
 |        | features, price and community support etc     |                 | Avinash     |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      4 | Decompilation of .class files of two labs     | 3rd task        | Soujanya    | [2015-09-01] |        |
+|      5 | Decompilation of .class files of two labs     | 4th task        | Soujanya    | [2015-09-01] |        |
 |        | and two experiments of two different labs     |                 | Avinash     |              |        |
 |        | 1) Pattern Recognition Labs (*8 Experiments*) |                 |             |              |        |
 |        |                                               |                 |             |              |        |
@@ -69,14 +69,14 @@ Prof. Raghu, Sravanthi, Apurv, Khushpreet, Soujanya, Priya and Geeta
 |        |                                               |                 |             |              |        |
 |        | 4) Computer Organization (*1 Experiments*)    |                 |             |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      5 | Update the Makefile with respect              | 4th task        | Sadhana     | [2015-09-01] |        |
+|      6 | Update the Makefile with respect              | 5th task        | Sadhana     | [2015-09-01] |        |
 |        | to decompiled .java code                      |                 | Sravanthi   |              |        |
 |        |                                               |                 | Shriyansh   |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      6 | Cross check the sheet and correct             |                 | Khushpreet  | [2015-09-01] |        |
+|      7 | Cross check the sheet and correct             |                 | Khushpreet  | [2015-09-01] |        |
 |        | the numbers                                   |                 |             |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
-|      7 | To test new source code of Computer Graphics  |                 | Khushpreet  | [2015-09-01] |        |
+|      8 | To test new source code of Computer Graphics  |                 | Khushpreet  | [2015-09-01] |        |
 |        | Lab                                           |                 |             |              |        |
 |--------+-----------------------------------------------+-----------------+-------------+--------------+--------|
 

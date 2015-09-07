@@ -1,6 +1,6 @@
 #+Title:  Status Update Meeting
-#+Author: SRAVANTHI
-#+Date:   <2015-09-01 Tuesday>-01 Tuesday>
+#+Author: Khushpreet
+#+Date:   <2015-09-07 Tuesday>
 
 * Attendees
 
@@ -86,9 +86,6 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        |                                              |            |             |              | Basic Structural Analysis: found .fla files for 9  |
 |        |                                              |            |             |              | exp out of 10 exps                                 |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-
-
-
 
 
 Please go ahead and update the document if I missed any point.

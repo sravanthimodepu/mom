@@ -76,7 +76,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |      9 | Replace POPL with NLP labs and update the     | Sravanthi   | [2015-09-11] | TODO                                                     |
 |        | sheet                                         |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|     10 | Co-ordinate with RAs and assign tasks to them | Soujanya    |              | TODO                                                     |
+|     10 | Co-ordinate with RAs and assign tasks to them | Khushpreet  | [2015-09-09] | DONE                                                     |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |     11 | Define intergration level for working and     | Khushpreet  |              | Not a priority for this Friday                           |
 |        | non working labs for internal referance       |             |              |                                                          |

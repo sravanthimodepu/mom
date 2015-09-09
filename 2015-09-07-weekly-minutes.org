@@ -47,11 +47,11 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 | Sr. No | Tasks                                        | Depends on | Assigned to | Deadline     | Status                                             |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      1 | Check Basic structural Analysis and Soil     |            | Khushpreet  | [2015-09-08] |                                                    |
+|      1 | Check Basic structural Analysis and Soil     |            | Khushpreet  | [2015-09-08] |    TODO                                            |
 |        | Soil Mechanics from the 2nd set of labs to   |            |             |              |                                                    |
 |        | replace with the first set of labs           |            |             |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      2 | Update the Makefile with respect             | 3rd task   | Sadhana     | [2015-09-08] | On hold                                            |
+|      2 | Update the Makefile with respect             | 4rd task   | Sadhana     | [2015-09-08] | On hold                                            |
 |        | to decompiled .java code and move the 13labs |            | Sravanthi   |              |                                                    |
 |        | from level1 to level6 from 1st set of labs   |            | Shriyansh   |              | Assigned people are working on #5th tasks          |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
@@ -69,7 +69,7 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        |                                              |            | Sravanthi   |              |                                                    |
 |        |                                              |            | Sadhana     |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      7 | Source code collection                       |            | Khushpreet  | [2015-09-08] | In progress                                        |
+|      7 | Source code collection                       |            | Khushpreet  | [2015-09-08] | DONE with the src given by developers              |
 |        |                                              |            |             |              |                                                    |
 |        |                                              |            |             |              | Checked all the sources given by Prof. Tapan for   |
 |        |                                              |            |             |              | following labs:                                    |
@@ -79,12 +79,12 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        |                                              |            |             |              | Basic Engineering Mechanics and Strength of        |
 |        |                                              |            |             |              | materials: 1 expt, .fla file                       |
 |        |                                              |            |             |              |                                                    |
-|        |                                              |            |             |              | Structural Dynamics Lab: 9 expts .java files       |
+|        |                                              |            |             |              | Structural Dynamics Lab: .java files for all 9 exp  |
 |        |                                              |            |             |              |                                                    |
 |        |                                              |            |             |              | Circular Dichronism Spectroscopy: 1exp, .java file |
 |        |                                              |            |             |              |                                                    |
-|        |                                              |            |             |              | Basic Structural Analysis: found .fla files for 9  |
-|        |                                              |            |             |              | exp out of 10 exps                                 |
+|        |                                              |            |             |              | Basic Structural Analysis: found java and .fla for | 
+|        |                                              |            |             |              | all the 10                                         |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 
 

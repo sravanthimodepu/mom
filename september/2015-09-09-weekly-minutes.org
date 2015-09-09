@@ -67,7 +67,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |      6 | Write documentation to setup env for Java 3D  | Soujanya    | [2015-09-11] | TODO                                                     |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      7 | Take backup of excel sheet and push it to     | Khushpreet  | [2015-09-09] | TODO                                                     |
+|      7 | Take backup of excel sheet and push it to     | Khushpreet  | [2015-09-09] | DONE                                                     |
 |        | github                                        |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |      8 | Make another excel sheet with info relevant   | Khushpreet  | [2015-09-10] | DONE                                                     |

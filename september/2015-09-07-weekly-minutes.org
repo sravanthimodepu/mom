@@ -59,7 +59,7 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        |                                              |            |             |              | integrate the lab sources. Also backend needs to   |
 |        |                                              |            |             |              | be implemented.                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      4 | Finalize a good Java decompiler based on     |            | Soujanya    | [2015-09-01] | To be updated by Soujanya                          |
+|      4 | Finalize a good Java decompiler based on     |            | Soujanya    | [2015-09-01] | Androchef, JD GUI/Eclipse                          |
 |        | features, price and community support etc    |            | Avinash     |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 |      5 | Decompilation of .class files of two labs    | 4th task   | Soujanya    | [2015-09-08] | To be updated by Soujanya                          |

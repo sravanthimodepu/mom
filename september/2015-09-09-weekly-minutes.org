@@ -70,7 +70,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |      7 | Take backup of excel sheet and push it to     | Khushpreet  | [2015-09-09] | TODO                                                     |
 |        | github                                        |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      8 | Make another excel sheet with info relevant   | Khushpreet  | [2015-09-10] | TODO                                                     |
+|      8 | Make another excel sheet with info relevant   | Khushpreet  | [2015-09-10] | DONE                                                     |
 |        | to lab                                        |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |      9 | Replace POPL with NLP labs and update the     | Sravanthi   | [2015-09-11] | TODO                                                     |
@@ -81,7 +81,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |     11 | Define intergration level for working and     | Khushpreet  |              | Not a priority for this Friday                           |
 |        | non working labs for internal referance       |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|     12 | Coordinate with Geeta for recruiting more     | Khushpreet  |              | TODO                                                     |
+|     12 | Coordinate with Geeta for recruiting more     | Khushpreet  |              | In Progress, Sent mail to Geeta                           |
 |        | RAs based on basic skill set of HTML5, php,   |             |              |                                                          |
 |        | JavaScript, CSS                               |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|

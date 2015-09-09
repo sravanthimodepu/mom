@@ -47,7 +47,7 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 | Sr. No | Tasks                                        | Depends on | Assigned to | Deadline     | Status                                             |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      1 | Check Basic structural Analysis and Soil     |            | Khushpreet  | [2015-09-08] |    TODO                                            |
+|      1 | Check Basic structural Analysis and Soil     |            | Khushpreet  | [2015-09-08] | TODO                                               |
 |        | Soil Mechanics from the 2nd set of labs to   |            |             |              |                                                    |
 |        | replace with the first set of labs           |            |             |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
@@ -55,7 +55,9 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        | to decompiled .java code and move the 13labs |            | Sravanthi   |              |                                                    |
 |        | from level1 to level6 from 1st set of labs   |            | Shriyansh   |              | Assigned people are working on #5th tasks          |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      3 | Resolve the issues of the labs               |            | Apurv       |              | To be updated by Apurv                             |
+|      3 | Resolve the issues of the labs               |            | Apurv       |              | Sage installation is done. Need to convert and     |
+|        |                                              |            |             |              | integrate the lab sources. Also backend needs to   |
+|        |                                              |            |             |              | be implemented.                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 |      4 | Finalize a good Java decompiler based on     |            | Soujanya    | [2015-09-01] | To be updated by Soujanya                          |
 |        | features, price and community support etc    |            | Avinash     |              |                                                    |
@@ -79,11 +81,11 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |        |                                              |            |             |              | Basic Engineering Mechanics and Strength of        |
 |        |                                              |            |             |              | materials: 1 expt, .fla file                       |
 |        |                                              |            |             |              |                                                    |
-|        |                                              |            |             |              | Structural Dynamics Lab: .java files for all 9 exp  |
+|        |                                              |            |             |              | Structural Dynamics Lab: .java files for all 9 exp |
 |        |                                              |            |             |              |                                                    |
 |        |                                              |            |             |              | Circular Dichronism Spectroscopy: 1exp, .java file |
 |        |                                              |            |             |              |                                                    |
-|        |                                              |            |             |              | Basic Structural Analysis: found java and .fla for | 
+|        |                                              |            |             |              | Basic Structural Analysis: found java and .fla for |
 |        |                                              |            |             |              | all the 10                                         |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
 

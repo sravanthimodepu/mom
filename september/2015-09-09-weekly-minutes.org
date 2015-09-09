@@ -1,0 +1,89 @@
+#+Title:  Status Update Meeting
+#+Author: Khushpreet
+#+Date:   <2015-09-09 Wednesday>
+
+* Attendees
+
+  Total person: 6 
+
+Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
+
+* Last week's Summary 
+** Status of first set of labs
+    
+    *Total number of labs*: 20
+
+    *Sources Available for*: 13
+
+    *Partially Available for*: 4
+
+    *Not Available for*: 3
+
+** Status of second set of labs
+
+   *Total number of labs*: 16
+
+   *Sources Available for*: 9
+
+   *Partially Available for*: 2
+
+   *Not Available for*: 5
+
+* Discussion
+  
+  + Main target is to get 14 labs on level *6* and at least *2* labs
+    at level 4 by Friday, [2015-09-11].
+
+  + Lab should work if the there is any problem with any experiments,
+    remove those experiment from labs and keep a record of removed
+    experiments to revisit and fix them later.
+
+* Action Items 
+
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+| Sr. No | Tasks                                         | Assigned to | Deadline     | Status                                                   |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      1 | Host computer Programming lab on cloud        | Khushpreet  | [2015-09-11] | TODO                                                     |
+|        | after testing the sources, keeping old        |             |              |                                                          |
+|        | analytics in place                            |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      2 | Host Computer Graphics lab on cloud after     | Sadhana     | [2015-09-11] | TODO                                                     |
+|        | testing the sources, keeping old analytics    |             |              |                                                          |
+|        | at place                                      |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      3 | Decompilation of 1 exprt of computer          | Soujanya    | [2015-09-11] | In Progress                                              |
+|        | organization lab                              | Sravanthi   |              |                                                          |
+|        |                                               |             |              | Solved errors of exp3 of computer organization lab.      |
+|        |                                               |             |              | Need to change the code for resolving run time exception |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      4 | Update the Makefile with respect              | Sravanthi   | [2015-09-11] | TODO                                                     |
+|        | to decompiled .java code and move the 13labs  |             |              |                                                          |
+|        | from level1 to level6 from 1st set of labs    |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      5 | Resolve the issues of the labs                | Apurv       |              | In Progress                                              |
+|        | Databases, Datamining                         |             |              |                                                          |
+|        |                                               |             |              | integrate the lab sources.                               |
+|        |                                               |             |              | Also backend needs to be implemented                     |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      6 | Write documentation to setup env for Java 3D  | Soujanya    | [2015-09-11] | TODO                                                     |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      7 | Take backup of excel sheet and push it to     | Khushpreet  | [2015-09-09] | TODO                                                     |
+|        | github                                        |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      8 | Make another excel sheet with info relevant   | Khushpreet  | [2015-09-10] | TODO                                                     |
+|        | to lab                                        |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|      9 | Replace POPL with NLP labs and update the     | Sravanthi   | [2015-09-11] | TODO                                                     |
+|        | sheet                                         |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|     10 | Co-ordinate with RAs and assign tasks to them | Soujanya    |              | TODO                                                     |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|     11 | Define intergration level for working and     | Khushpreet  |              | Not a priority for this Friday                           |
+|        | non working labs for internal referance       |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+|     12 | Coordinate with Geeta for recruiting more     | Khushpreet  |              | TODO                                                     |
+|        | RAs based on basic skill set of HTML5, php,   |             |              |                                                          |
+|        | JavaScript, CSS                               |             |              |                                                          |
+|--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
+
+Please update status column at the end of day.

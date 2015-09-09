@@ -1,4 +1,5 @@
 mom
 ===
 
-Weekly minutes of integration engineers meeting 
+This repository contains all the minutes of integration team meetings.
+

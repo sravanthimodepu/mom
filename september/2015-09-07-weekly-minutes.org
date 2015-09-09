@@ -62,12 +62,12 @@ Decompiler as RAs are off from Monday to Wednesday (Reason: Mid-sem).
 |      4 | Finalize a good Java decompiler based on     |            | Soujanya    | [2015-09-01] | Androchef, JD GUI/Eclipse                          |
 |        | features, price and community support etc    |            | Avinash     |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      5 | Decompilation of .class files of two labs    | 4th task   | Soujanya    | [2015-09-08] | To be updated by Soujanya                          |
+|      5 | Decompilation of .class files of two labs    | 4th task   | Soujanya    | [2015-09-08] | Solved errors of exp3 of computer organization lab. Need to change the code for resolving run time exceptions                          |
 |        | and two experiments of two different labs    |            | Sadhana     |              |                                                    |
 |        |                                              |            | Sravanthi   |              |                                                    |
 |        | 1) Computer Organization (*1 Experiment*)    |            |             |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|
-|      6 | Test Physical chmistry lab                   |            | Soujnaya    | [2015-09-08] | To be updated by Soujanya                          |
+|      6 | Test Physical chmistry lab                   |            | Soujnaya    | [2015-09-08] | Yet to be tested                          |
 |        |                                              |            | Sravanthi   |              |                                                    |
 |        |                                              |            | Sadhana     |              |                                                    |
 |--------+----------------------------------------------+------------+-------------+--------------+----------------------------------------------------|

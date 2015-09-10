@@ -43,7 +43,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 | Sr. No | Tasks                                         | Assigned to | Deadline     | Status                                                   |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      1 | Host computer Programming lab on cloud        | Khushpreet  | [2015-09-11] | TODO                                                     |
+|      1 | Host computer Programming lab on cloud        | Khushpreet  | [2015-09-11] | Sent request to System team                              |
 |        | after testing the sources, keeping old        |             |              |                                                          |
 |        | analytics in place                            |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|

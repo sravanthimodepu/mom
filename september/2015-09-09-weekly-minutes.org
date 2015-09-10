@@ -18,6 +18,10 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
     *Partially Available for*: 4
 
     *Not Available for*: 3
+  
+    *Labs at Level 6*: 10
+  
+    *Labs at level 4*: 3  
 
 ** Status of second set of labs
 

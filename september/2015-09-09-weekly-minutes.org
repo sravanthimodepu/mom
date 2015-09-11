@@ -13,9 +13,9 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
     
     *Total number of labs*: 20
 
-    *Sources Available for*: 13
+    *Sources Available for*: 14
 
-    *Partially Available for*: 4
+    *Partially Available for*: 3
 
     *Not Available for*: 3
 

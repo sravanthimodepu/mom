@@ -8,7 +8,7 @@
 
 Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 
-* Last week's Summary 
+* Lab's Status 
 ** Status of first set of labs
     
     *Total number of labs*: 20

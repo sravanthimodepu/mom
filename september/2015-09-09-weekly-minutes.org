@@ -51,13 +51,13 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |        | testing the sources, keeping old analytics    |             |              |                                                          |
 |        | at place                                      |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      3 | Decompilation of 1 exprt of computer          | Soujanya    | [2015-09-11] | In Progress                                              |
+|      3 | Decompilation of 1 exprt of computer          | Soujanya    | [2015-09-11] |DONE                                                 |
 |        | organization lab                              | Sravanthi   |              |                                                          |
 |        |                                               |             |              | Solved errors of exp3 of computer organization lab.      |
 |        |                                               |             |              | Need to change the code for resolving run time exception |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      4 | Update the Makefile with respect              | Sravanthi   | [2015-09-11] | TODO                                                     |
-|        | to decompiled .java code and move the 13labs  |             |              |                                                          |
+|      4 | Update the Makefile with respect              | Sravanthi   | [2015-09-11] | DONE                                                    |
+|        | to decompiled .java code and move the 14labs  |             |              |                                                          |
 |        | from level1 to level6 from 1st set of labs    |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |      5 | Resolve the issues of the labs                | Apurv       |              | In Progress                                              |
@@ -73,7 +73,7 @@ Prof. Raghu, Khushpreet, Soujanya, Apurv, Sadhana, Sravanthi
 |      8 | Make another excel sheet with info relevant   | Khushpreet  | [2015-09-10] | DONE                                                     |
 |        | to lab                                        |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
-|      9 | Replace POPL with NLP labs and update the     | Sravanthi   | [2015-09-11] | TODO                                                     |
+|      9 | Replace POPL with NLP labs and update the     | Sravanthi   | [2015-09-11] | DONE                                                    |
 |        | sheet                                         |             |              |                                                          |
 |--------+-----------------------------------------------+-------------+--------------+----------------------------------------------------------|
 |     10 | Co-ordinate with RAs and assign tasks to them | Khushpreet  | [2015-09-09] | DONE                                                     |
